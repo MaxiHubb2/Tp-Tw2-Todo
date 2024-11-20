@@ -37,8 +37,6 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
 
    npm run dev
 
-   La API estará disponible en http://localhost:3000.
-
 5. Abre la aplicación:
    🌐 Navega a http://localhost:4200 y comienza a gestionar tus tareas.
 
