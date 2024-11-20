@@ -6,15 +6,15 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
 ## 🌟 **Características Principales**
 - 📝 **Crear tareas** con título y descripción.  
 - ✅ **Listar todas las tareas**, incluyendo la opción de marcarlas como completadas.  
-- ✏️ **Editar tareas existentes** 
-- 🗑️ **Eliminar tareas** 
+- ✏️ **Editar tareas existentes**.  
+- 🗑️ **Eliminar tareas**.  
 
 ---
 
 ## 🛠️ **Tecnologías Utilizadas**
 - **Frontend**: [Angular](https://angular.io/)  
 - **Backend**: [Node.js](https://nodejs.org/)  
-- **Persistencia**: En memoria
+- **Persistencia**: En memoria.  
 
 ---
 
@@ -25,36 +25,21 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
    git clone https://github.com/MaxiHubb2/Tp-Tw2-Todo.git
    cd Tp-Tw2-Todo
 
+2. Instala las dependencias:
 
-2. **Instala las dependencias**:
-
-   - **Backend**:
-     ```bash
-     cd backend
-     npm install
-     ```
-   - **Frontend**:
-     ```bash
-     cd ../frontend
-     npm install
-     ```
-
-3. **Inicia los servicios**:
-
-   - **Backend**:
-     ```bash
-     npm start
-     ```
-     El servidor estará disponible en: [http://localhost:3000](http://localhost:3000)  
-
-   - **Frontend**:
-     ```bash
-     ng serve
-     ```
-     La aplicación estará disponible en: [http://localhost:4200](http://localhost:4200)
-
-4. **Abre la aplicación**:  
-   🌐 Navega a [http://localhost:4200](http://localhost:4200) y comienza a gestionar tus tareas.
+npm install
 
 
-   
+3. Configura las variables de entorno:
+Copia el contenido del archivo .env.defaults en un nuevo archivo llamado .env.
+
+
+4. Levanta la API:
+
+npm run dev
+
+La API estará disponible en http://localhost:3000.
+
+5. Abre la aplicación:
+🌐 Navega a http://localhost:4200 y comienza a gestionar tus tareas.
+
