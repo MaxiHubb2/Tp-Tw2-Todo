@@ -27,19 +27,18 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
 
 2. Instala las dependencias:
 
-npm install
+   npm install
 
 
 3. Configura las variables de entorno:
-Copia el contenido del archivo .env.defaults en un nuevo archivo llamado .env.
-
+   Copia el contenido del archivo .env.defaults en un nuevo archivo llamado .env.
 
 4. Levanta la API:
 
-npm run dev
+   npm run dev
 
-La API estará disponible en http://localhost:3000.
+   La API estará disponible en http://localhost:3000.
 
 5. Abre la aplicación:
-🌐 Navega a http://localhost:4200 y comienza a gestionar tus tareas.
+   🌐 Navega a http://localhost:4200 y comienza a gestionar tus tareas.
 
