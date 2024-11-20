@@ -25,18 +25,19 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
    git clone https://github.com/MaxiHubb2/Tp-Tw2-Todo.git
    cd Tp-Tw2-Todo
 
-2. Instala las dependencias:
-
+2. **Instala las dependencias**:
+   ```bash
    npm install
 
 
 3. Configura las variables de entorno:
+
    Copia el contenido del archivo .env.defaults en un nuevo archivo llamado .env.
 
-4. Levanta la API:
-
+5. **Levanta la API**:
+   ```bash
    npm run dev
 
-5. Abre la aplicación:
+6. Abre la aplicación:
    🌐 Navega a http://localhost:4200 y comienza a gestionar tus tareas.
 
