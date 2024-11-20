@@ -6,8 +6,8 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
 ## 🌟 **Características Principales**
 - 📝 **Crear tareas** con título y descripción.  
 - ✅ **Listar todas las tareas**, incluyendo la opción de marcarlas como completadas.  
-- ✏️ **Editar tareas existentes** *(opcional)*.  
-- 🗑️ **Eliminar tareas** *(opcional)*.  
+- ✏️ **Editar tareas existentes** 
+- 🗑️ **Eliminar tareas** 
 
 ---
 
@@ -26,7 +26,7 @@ Gestión eficiente de tus tareas diarias con una interfaz amigable y un backend 
    cd Tp-Tw2-Todo
 
 
-   2. **Instala las dependencias**:
+2. **Instala las dependencias**:
 
    - **Backend**:
      ```bash
